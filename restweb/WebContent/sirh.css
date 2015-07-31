@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+*.emplibelle {
+    display: table-cell;
+}
+*.empl {
+    display: table-row;
+}
+#lesemployes {
+    display: table;
+}
